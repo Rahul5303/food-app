@@ -1,0 +1,58 @@
+*{
+padding: 0;
+width: 100%;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  background-color: rgb(14, 141, 39);
+  
+}
+#first{
+    display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    margin: auto;
+
+
+}
+#sec{
+    
+    display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    
+
+
+
+}
+#third{
+   
+    display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+
+
+}
+#fourth{
+   
+    display: flex;
+    /* border: 1px solid red; */
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+
+
+}
+img{
+  
+    width: 24%;
+    margin: auto;
+
+}
+
